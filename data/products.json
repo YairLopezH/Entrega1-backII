@@ -1,0 +1,103 @@
+[
+  {
+    "id": "1743524357262",
+    "title": "Red Dead Redemption 2",
+    "description": "Un épico juego de acción y aventura en un mundo abierto del viejo oeste.",
+    "code": "RDR2-001",
+    "price": 49.99,
+    "status": true,
+    "stock": 30,
+    "category": "Acción / Aventura",
+    "thumbnails": [
+      "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg"
+    ]
+  },
+  {
+    "id": "1743524415821",
+    "title": "Grand Theft Auto V",
+    "description": "Uno de los juegos de mundo abierto más populares, lleno de acción y aventura.",
+    "code": "GTA5-002",
+    "price": 29.99,
+    "status": true,
+    "stock": 50,
+    "category": "Acción / Aventura",
+    "thumbnails": [
+      "https://upload.wikimedia.org/wikipedia/commons/a/a4/Grand_Theft_Auto_V_logo.svg"
+    ]
+  },
+  {
+    "id": "1743524427349",
+    "title": "Counter-Strike 2",
+    "description": "El icónico juego de disparos en primera persona para competir en equipos.",
+    "code": "CS2-003",
+    "price": 19.99,
+    "status": true,
+    "stock": 100,
+    "category": "Disparos / Multijugador",
+    "thumbnails": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/64/Counter-Strike_2_logo.png"
+    ]
+  },
+  {
+    "id": "1743524439666",
+    "title": "The Witcher 3: Wild Hunt",
+    "description": "Un RPG de acción y aventura con un mundo abierto lleno de historias fascinantes.",
+    "code": "W3WH-004",
+    "price": 39.99,
+    "status": true,
+    "stock": 40,
+    "category": "RPG / Aventura",
+    "thumbnails": [
+      "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Witcher_3_Wild_Hunt_logo.png"
+    ]
+  },
+  {
+    "id": "1743524450665",
+    "title": "Minecraft",
+    "description": "Un juego sandbox que te permite explorar, construir y sobrevivir en un mundo hecho de bloques.",
+    "code": "MC-005",
+    "price": 26.95,
+    "status": true,
+    "stock": 150,
+    "category": "Sandbox / Aventura",
+    "thumbnails": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5c/Minecraft_logo.png"
+    ]
+  },
+  {
+    "id": "1743524460111",
+    "title": "Cyberpunk 2077",
+    "description": "Un juego de rol y acción en un mundo futurista, con una historia envolvente y mucha personalización.",
+    "code": "CP77-006",
+    "price": 59.99,
+    "status": true,
+    "stock": 20,
+    "category": "RPG / Acción",
+    "thumbnails": [
+      "https://upload.wikimedia.org/wikipedia/commons/9/9e/Cyberpunk_2077_logo.svg"
+    ]
+  },
+  {
+    "id": "1743524475202",
+    "title": "Call of Duty: Modern Warfare II (2022)",
+    "description": "El renacimiento de uno de los títulos más populares de la franquicia, con acción de disparos de alta intensidad.",
+    "code": "CODMW2-008",
+    "price": 69.99,
+    "status": true,
+    "stock": 60,
+    "category": "Disparos / Acción",
+    "thumbnails": [
+      "https://upload.wikimedia.org/wikipedia/commons/f/fe/Call_of_Duty_Modern_Warfare_II_logo.png"
+    ]
+  },
+  {
+    "id": "1745866654914",
+    "title": "Pruebajson",
+    "description": "hola",
+    "code": "12345",
+    "price": "12",
+    "stock": "12",
+    "category": "prueba",
+    "thumbnails": ""
+  }
+]

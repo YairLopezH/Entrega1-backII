@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Carrito</title>
+</head>
+<body>
+  <h1>Carrito {{cart._id}}</h1>
+  <ul>
+    {{#each cart.products}}
+      <li>
+        {{this.product.title}} - Cantidad: {{this.quantity}} - Precio unitario: ${{this.product.price}}
+      </li>
+    {{/each}}
+  </ul>
+</body>
+</html>

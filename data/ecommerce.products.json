@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "68265beaada8ccd806c26131"
+  },
+  "title": "Nuevo Juego XYZ",
+  "description": "Un juego muy divertido y emocionante",
+  "price": 49.99,
+  "category": "Acción",
+  "stock": 15,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "68265c51ada8ccd806c26134"
+  },
+  "title": "The Legend of Zelda: Breath of the Wild",
+  "description": "Explora un vasto mundo abierto lleno de aventuras y desafíos.",
+  "price": 59.99,
+  "category": "Aventura",
+  "stock": 20,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "68265c51ada8ccd806c26135"
+  },
+  "title": "God of War Ragnarok",
+  "description": "La épica saga continúa con Kratos enfrentando nuevos enemigos y desafíos.",
+  "price": 69.99,
+  "category": "Acción",
+  "stock": 15,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "68265c51ada8ccd806c26136"
+  },
+  "title": "Minecraft",
+  "description": "Construye y explora mundos infinitos hechos de bloques.",
+  "price": 26.95,
+  "category": "Sandbox",
+  "stock": 50,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "68265c51ada8ccd806c26137"
+  },
+  "title": "Cyberpunk 2077",
+  "description": "Un RPG futurista con mundo abierto y una historia inmersiva.",
+  "price": 39.99,
+  "category": "RPG",
+  "stock": 30,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "68265c51ada8ccd806c26138"
+  },
+  "title": "Among Us",
+  "description": "Un juego de deducción social y trabajo en equipo.",
+  "price": 4.99,
+  "category": "Multijugador",
+  "stock": 100,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "68265c51ada8ccd806c26139"
+  },
+  "title": "FIFA 23",
+  "description": "El simulador de fútbol más realista y emocionante.",
+  "price": 59.99,
+  "category": "Deportes",
+  "stock": 25,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "68265c51ada8ccd806c2613a"
+  },
+  "title": "Hades",
+  "description": "Un rogue-like donde intentarás escapar del inframundo.",
+  "price": 24.99,
+  "category": "Indie",
+  "stock": 40,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "68265c51ada8ccd806c2613b"
+  },
+  "title": "Dark Souls III",
+  "description": "Un desafiante RPG de acción con un mundo oscuro y misterioso.",
+  "price": 49.99,
+  "category": "RPG",
+  "stock": 10,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "68265c51ada8ccd806c2613c"
+  },
+  "title": "Overwatch 2",
+  "description": "Un shooter en equipo con héroes únicos y habilidades especiales.",
+  "price": 0,
+  "category": "Multijugador",
+  "stock": 999,
+  "status": true
+},
+{
+  "_id": {
+    "$oid": "68265c51ada8ccd806c2613d"
+  },
+  "title": "Stardew Valley",
+  "description": "Un juego de agricultura y vida en el pueblo con elementos RPG.",
+  "price": 14.99,
+  "category": "Simulación",
+  "stock": 35,
+  "status": true
+}]

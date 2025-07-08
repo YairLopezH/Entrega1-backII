@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <title>Productos</title>
+  <script type="module" src="/js/cartActions.js"></script>
+</head>
+<body>
+  <h1>Productos</h1>
+  <ul>
+    {{#each products}}
+      <li>
+        <strong>{{this.title}}</strong> - ${{this.price}} - {{this.category}}
+        <button class="add-to-cart-btn" data-productid="{{this._id}}" data-cartid="{{../cartId}}">Agregar al carrito</button>
+      </li>
+    {{/each}}
+
+  <nav>
+    {{#if hasPrevPage}}
+      <a href="/products?page={{prevPage}}">Anterior</a>
+    {{/if}}
+    <span>Página {{page}} de {{totalPages}}</span>
+    {{#if hasNextPage}}
+      <a href="/products?page={{nextPage}}">Siguiente</a>
+    {{/if}}
+  </nav>
+</body>
+</html>
